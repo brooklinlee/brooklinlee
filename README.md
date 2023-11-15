@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Brooklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=brooklinlee&rank_icon=github&show_icons=true&hide=stars)](https://github.com/brooklinlee/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=brooklinlee&rank_icon=github&show_icons=true&hide=stars" />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooklinlee&layout=compact)
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brooklinlee&layout=compact" />
 
 <!--
 **brooklinlee/brooklinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
